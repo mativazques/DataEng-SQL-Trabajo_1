@@ -16,7 +16,7 @@ Se practicaron las funciones:
 
 ## Consultas 
 
-Las consultas se encuentran en el archivo [5_Tarea_SQL.sql](5_Tarea_SQL.sql) y el archivo donde se muestran los resultados de las consultas es [Consultas_SQL.pdf](Consultas.pdf). 
+Las consultas se encuentran en el archivo [5_Tarea_SQL.sql](5_Tarea_SQL.sql) y el archivo donde se muestran los resultados de las consultas es [Consultas_SQL.pdf](Consultas_SQL.pdf). 
 
 
 
