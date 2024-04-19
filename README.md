@@ -1,6 +1,6 @@
 # Sentencias SQL
 
-Segundo trabajo de SQL en el bootcamp de Data Engineering por Escuela de Datos Vivos. En esta ocación, todas las consultas se realizaron sobre la base de datos **Northwind**.
+Primer trabajo de SQL en el bootcamp de Data Engineering por Escuela de Datos Vivos. En esta ocación, todas las consultas se realizaron sobre la base de datos **Northwind**.
 
 Se practicaron las funciones: 
 - DISTINCT
